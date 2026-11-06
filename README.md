@@ -1,120 +1,155 @@
 # solid-telegram
 
-## Marine Diesel Engines and Generator Training Guide
+# Marine Diesel Engines and Generator Course Manual
 
-**Engineer:** Abdullah Thabit Alqahtani
+**Engineer and course author:** Abdullah Thabit Alqahtani  
+**Course level:** Introductory learning and supervised familiarization  
+**Equipment focus:** Volvo Penta D4, D6, D11, D12, and D13; MTU and MAN marine engines; Yanmar marine engines; Kohler marine generators
 
-A learning and training resource about marine diesel propulsion engines and onboard generator sets, focusing on Volvo Penta D4, D6, D11, D12, and D13 engines, MTU and MAN marine engines, Yanmar marine engines, and Kohler marine generators.
+> **Important:** This manual outline supports education and supervised familiarization. It is not a manufacturer service manual, operating authorization, professional qualification, or substitute for vessel procedures. Always use current official documentation for the exact equipment and follow qualified instructor guidance.
 
-> **Training purpose:** Introduce key concepts, equipment systems, maintenance planning, and safe troubleshooting practices. This material is for education and training; it is not a substitute for manufacturer service manuals, formal qualifications, onboard procedures, or advice from a qualified marine technician.
+## 1. Course Description
 
-## Equipment Index
+This course introduces learners to marine diesel propulsion engines and onboard generator sets. It covers basic engine principles, major systems, safe operating awareness, maintenance documentation, and a cautious, manual-led approach to recognizing and reporting faults.
+
+The course is designed to build foundational knowledge. Practical activities must be approved by the equipment owner and conducted under qualified supervision. It does not qualify learners to perform repairs or electrical work.
+
+## 2. Equipment Index
 
 | Manufacturer | Equipment covered |
 | --- | --- |
 | Volvo Penta | D4, D6, D11, D12, and D13 marine diesel engines |
-| MTU | Marine propulsion and auxiliary diesel engines; exact families and models to be added |
-| MAN | Marine propulsion diesel engines; exact families and models to be added |
-| Yanmar | Marine diesel propulsion engines and generator-related systems; exact models to be added |
-| Kohler | Marine generator sets; exact models to be added |
+| MTU | Marine propulsion and auxiliary engines; exact model families to be specified in future lessons |
+| MAN | Marine propulsion engines; exact model families to be specified in future lessons |
+| Yanmar | Marine propulsion engines and generator-related systems; exact models to be specified in future lessons |
+| Kohler | Marine generator sets; exact models to be specified in future lessons |
 
-Always identify the full model designation, configuration, and serial number before consulting model-specific information. Similar model names can have different specifications and procedures.
+Always confirm the complete model designation, configuration, rating, and serial number before using model-specific information. Procedures and specifications are not interchangeable between models or brands.
 
-## Learning Goals
+## 3. Student Learning Objectives
 
-By studying this guide, learners should be able to:
+By the end of the course, students should be able to:
 
-- Explain the basic role and operating principles of marine diesel engines and generator sets.
-- Identify major engine, cooling, lubrication, fuel, air, exhaust, starting, and charging systems.
-- Describe safe pre-start, operating, and shutdown checks using the equipment's manual.
-- Understand the purpose of routine inspections and maintenance records.
-- Gather useful information when reporting a fault or abnormal condition.
-- Recognize when work must stop and a qualified technician should be contacted.
-- Find and verify the correct manufacturer documentation for a particular unit.
+1. Describe the basic purpose and operating principles of a marine diesel engine and a generator set.
+2. Identify the main engine systems: fuel, air intake, exhaust, lubrication, cooling, starting, charging, controls, and monitoring.
+3. Explain at a basic level how a generator set supplies onboard electrical power and identify key electrical hazards.
+4. Locate the correct manufacturer documentation using equipment identification information.
+5. Explain why pre-start, operating, shutdown, and maintenance checks must follow the unit's own manual and vessel procedures.
+6. Record operating hours, observations, alarms, and service history clearly and accurately.
+7. Collect and report relevant information about an abnormal condition without making unsupported diagnoses.
+8. Identify unsafe conditions and know when to stop, secure the area as directed, and notify a qualified person.
+9. Distinguish general educational information from model-specific manufacturer instructions.
 
-## Suggested Training Book Contents
+## 4. Instructor Notes
 
-### Part 1 — Foundations
+- Verify the equipment's identity and obtain the current applicable manufacturer documentation before teaching model-specific content.
+- Explain hazards and emergency arrangements before any practical observation or activity.
+- Keep hands-on learning observational unless an activity is specifically authorized, risk-assessed, and supervised by a competent instructor.
+- Do not ask students to defeat alarms, guards, interlocks, or protective devices, or to perform tasks outside their training and authorization.
+- Use the exact vessel and workplace procedures for isolation, access, ventilation, and personal protective equipment.
+- Make clear which statements come from manufacturer documentation and which are general explanations.
+- Adapt the material to local regulations, site rules, student experience, and equipment condition.
+- Stop an activity if conditions become unsafe or the correct documentation is unavailable.
 
-1. Introduction to marine diesel propulsion and onboard power generation
-2. Diesel engine fundamentals and major components
-3. Understanding engine ratings, model designations, and serial numbers
-4. How propulsion engines differ from generator sets
+## 5. Course Modules
 
-### Part 2 — Engine Systems
+### Module 1 — Marine Diesel Fundamentals
 
-5. Fuel supply and injection system overview
-6. Air intake, turbocharging, and exhaust overview
-7. Lubrication system principles
-8. Cooling systems and heat exchange
-9. Starting, charging, controls, and monitoring
+**Student objectives:** Describe the purpose of propulsion engines and explain the basic four-stroke diesel cycle at an introductory level. Identify the engine nameplate and serial number information.
 
-### Part 3 — Generators and Electrical Awareness
+**Instructor notes:** Use diagrams or a non-running training display where possible. Avoid applying one model's technical values to another.
 
-10. Marine generator-set components and operating principles
-11. Basic AC electrical concepts and onboard power awareness
-12. Generator operating checks and load considerations
-13. Electrical hazards and safe boundaries for trainees
+**Exercise:** Label the major parts on a training diagram and match each part to its general function.
 
-### Part 4 — Operation and Maintenance
+**Assessment:** Short quiz on engine purpose, basic cycle, and equipment identification.
 
-14. Pre-start, underway, and shutdown checks
-15. Preventive maintenance and service records
-16. Understanding manufacturer maintenance schedules
-17. Parts identification and documentation practices
+### Module 2 — Engine Systems
 
-### Part 5 — Fault Awareness and Safe Diagnosis
+**Student objectives:** Identify the purpose of fuel, air, exhaust, lubrication, cooling, starting, charging, control, and monitoring systems.
 
-18. How to describe symptoms, alarms, and operating conditions
-19. A safe, manual-led approach to troubleshooting
-20. Common abnormal conditions and when to stop operation
-21. Communicating findings to a supervisor or qualified technician
+**Instructor notes:** Teach system functions and hazard awareness; use manufacturer diagrams for specific equipment.
 
-### Part 6 — Manufacturer and Model Study
+**Exercise:** Trace a system on an approved diagram and explain its general flow or function.
 
-22. Volvo Penta D4 and D6 overview
-23. Volvo Penta D11, D12, and D13 overview
-24. MTU marine engine overview
-25. MAN marine engine overview
-26. Yanmar marine engine overview
-27. Kohler marine generator overview
+**Assessment:** Learner explains a selected system using the diagram and identifies where to find its official reference.
 
-Model-specific lessons should be added only when reliable manufacturer documentation is available. Do not assume that procedures or specifications transfer between models or brands.
+### Module 3 — Generator Sets and Electrical Awareness
 
-## Training Approach
+**Student objectives:** Describe the basic components of a marine generator set and recognize that generator electrical systems can present lethal hazards.
 
-For each topic or model, use a consistent learning structure:
+**Instructor notes:** Limit instruction to awareness unless the instructor is qualified and the activity is properly authorized. Never expose students to live electrical parts.
 
-1. **Learning objectives** — what the learner should understand.
-2. **System overview** — component names and their functions.
-3. **Safety briefing** — hazards, isolation requirements, and limits of trainee work.
-4. **Manufacturer reference** — applicable manual, document title, revision, and page or section.
-5. **Guided activity** — instructor-led observation or approved practice.
-6. **Knowledge check** — questions or a short review of the learning objectives.
-7. **Training record** — date, equipment identification, instructor, and topics completed.
+**Exercise:** Identify generator components on a de-energized training diagram and discuss safe boundaries.
 
-Hands-on activities must be supervised and permitted by the relevant manual, workplace rules, and instructor. This guide does not authorize learners to perform maintenance or repairs.
+**Assessment:** Scenario questions on electrical hazard recognition and when to seek qualified assistance.
 
-## Maintenance Learning Principles
+### Module 4 — Safe Operation Awareness
 
-Maintenance intervals and procedures depend on the exact model, year, rating, installation, and operating conditions. Teach learners to locate and follow the correct manufacturer's schedule rather than rely on generic intervals. Good records should identify the equipment, operating hours, date, work performed, materials used, and observations, following the vessel's approved process.
+**Student objectives:** Explain why pre-start, operating, and shutdown checks are equipment-specific and describe how to find the required checks in the manual.
 
-## Troubleshooting Learning Principles
+**Instructor notes:** Any demonstration must follow the manufacturer's instructions and vessel procedures. This module does not grant permission to operate equipment.
 
-Begin by confirming the equipment identity and recording the alarm or fault indication, operating conditions, symptoms, and recent service history. Follow only the diagnostic checks and procedures allowed by the correct manual and the learner's training level. Do not bypass alarms, guards, or protective devices. Stop and report unsafe conditions, unresolved alarms, unusual noise or vibration, overheating, leakage, smoke, or electrical faults to a qualified person.
+**Exercise:** Using a selected manual, locate the relevant operator checks and summarize them without substituting generic advice.
 
-## Safety
+**Assessment:** Learner identifies the correct manual and explains the importance of following its sequence and warnings.
 
-Marine engines and generator sets involve moving machinery, fuel, hot surfaces and fluids, exhaust gases, high-pressure systems, unexpected starting, and electrical energy. Generator equipment may contain hazardous AC voltage. Training and any practical work must follow the exact manufacturer's documentation, vessel procedures, applicable regulations, and instructor direction. Electrical work and major mechanical repairs are for appropriately qualified personnel.
+### Module 5 — Maintenance Planning and Records
 
-## Sources and Accuracy
+**Student objectives:** Explain the role of preventive maintenance, operating-hour records, inspection notes, and service history.
 
-Specifications, service procedures, parts, and maintenance intervals must be verified against current official documentation for the exact unit. When adding training material, cite the source and identify its model applicability. Clearly distinguish manufacturer instructions from general educational explanations. Do not include unverified technical values or unsafe shortcuts.
+**Instructor notes:** Do not teach generic service intervals as if they apply to all models. Use the exact maintenance schedule only as a documented reference exercise.
 
-## Project Status
+**Exercise:** Complete a sample service-record form using fictional training data.
 
-This repository is a developing learning and training book. The contents above provide a curriculum outline; lessons and model-specific material can be added progressively with reliable sources and appropriate review.
+**Assessment:** Review the record for complete equipment identification, date, hours, observations, and source references.
 
-## Contributions
+### Module 6 — Fault Awareness and Reporting
 
-Contributions are welcome. Please make learning content clear and accurate, identify the manufacturer and model, cite reliable sources, include relevant safety boundaries, and have technical material reviewed by a competent person before treating it as training guidance.
+**Student objectives:** Record symptoms, alarms, operating conditions, and recent history; distinguish observation from diagnosis; recognize conditions that require stopping and reporting.
+
+**Instructor notes:** Emphasize that troubleshooting must follow the correct manual and the learner's authorization. Do not instruct students to bypass protective systems.
+
+**Exercise:** Given a written scenario, prepare a factual fault report that includes only observed information and identifies who should be notified.
+
+**Assessment:** Score the report for clarity, relevant facts, safe escalation, and avoidance of unsupported conclusions.
+
+### Module 7 — Manufacturer and Model Familiarization
+
+**Student objectives:** Locate manufacturer documents and identify model-specific boundaries for Volvo Penta D4/D6/D11/D12/D13, MTU, MAN, Yanmar, and Kohler equipment.
+
+**Instructor notes:** Add model-specific lessons only when reliable manufacturer sources are available. Record document title, revision, model applicability, and reference location.
+
+**Exercise:** In a controlled document review, compare equipment identification with the coverage of an official manual.
+
+**Assessment:** Learner demonstrates correct source selection and explains why another model's procedure cannot be assumed to apply.
+
+## 6. Sample Knowledge Check
+
+1. Why should the exact model and serial number be confirmed before consulting technical information?
+2. Name three major systems found on a marine diesel engine and describe their general purpose.
+3. Why should service intervals not be copied from a different engine model?
+4. What information should be included when reporting an alarm or abnormal condition?
+5. What should a learner do if a practical activity appears unsafe or the correct manual is unavailable?
+6. Why must generator electrical work be left to appropriately qualified personnel?
+
+**Suggested evaluation:** Award credit for accurate, safety-conscious answers supported by the course material or the applicable manufacturer documentation. Instructors should set their own pass requirements and document them before training begins.
+
+## 7. Competency Record and Certificate Guidance
+
+Instructors may maintain a training record containing the student's name, course dates, modules completed, equipment observed, document references, assessment results, instructor name, and any limitations or follow-up needs.
+
+A course-completion certificate should state only that the learner completed this educational course and its stated assessments. It must not imply a government, manufacturer, trade, or professional certification unless that credential has been formally authorized and awarded by the relevant organization. Course completion alone does not authorize the learner to operate, maintain, or repair equipment.
+
+## 8. Safety Requirements
+
+Marine engines and generator sets may involve moving machinery, unexpected starting, fuel, hot surfaces and fluids, exhaust gases, high-pressure systems, and hazardous electrical energy. Follow the exact manufacturer's documentation, vessel procedures, applicable regulations, and instructor direction. Practical work requires appropriate authorization, risk assessment, supervision, and protective measures. Electrical work and major mechanical repairs are for appropriately qualified personnel.
+
+## 9. Sources and Accuracy
+
+Specifications, service procedures, parts, and maintenance intervals must be checked against current official documentation for the exact unit. Every future model-specific lesson should cite its source and state its model applicability. Clearly distinguish manufacturer instructions from general educational explanations. Do not include unverified values, unsafe shortcuts, or instructions to defeat protective systems.
+
+## 10. Project Status and Contributions
+
+This repository is a developing course manual and training resource. Lessons, diagrams, exercises, and model-specific material can be added progressively after reliable sourcing and competent review.
+
+Contributions should identify the manufacturer and model, cite reliable documentation, use clear educational language, include appropriate safety boundaries, and avoid presenting unverified guidance as authoritative.
