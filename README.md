@@ -1,72 +1,120 @@
 # solid-telegram
 
-Engineer: Abdullah Thabit Alqahtani
+## Marine Diesel Engines and Generator Training Guide
 
-A technical reference for marine diesel propulsion engines and onboard generator sets, with a focus on Volvo Penta D4, D6, D11, D12, and D13, MTU, MAN, Yanmar, and Kohler marine equipment.
+**Engineer:** Abdullah Thabit Alqahtani
 
-> Purpose: Organize practical, model-aware information about system operation, routine maintenance, fault diagnosis, and safe service practices. This repository is an educational reference—not a substitute for the applicable manufacturer service manual or a qualified marine technician.
+A learning and training resource about marine diesel propulsion engines and onboard generator sets, focusing on Volvo Penta D4, D6, D11, D12, and D13 engines, MTU and MAN marine engines, Yanmar marine engines, and Kohler marine generators.
 
-## Brand and Model Index
+> **Training purpose:** Introduce key concepts, equipment systems, maintenance planning, and safe troubleshooting practices. This material is for education and training; it is not a substitute for manufacturer service manuals, formal qualifications, onboard procedures, or advice from a qualified marine technician.
+
+## Equipment Index
 
 | Manufacturer | Equipment covered |
 | --- | --- |
-| Volvo Penta | D4, D6, D11, D12, D13 marine diesel engines |
-| MTU | Marine propulsion and auxiliary diesel engines; specific families and models to be documented |
-| MAN | Marine propulsion diesel engines; specific families and models to be documented |
-| Yanmar | Marine diesel propulsion engines and generator-related systems; specific models to be documented |
-| Kohler | Marine generator sets; specific models to be documented |
+| Volvo Penta | D4, D6, D11, D12, and D13 marine diesel engines |
+| MTU | Marine propulsion and auxiliary diesel engines; exact families and models to be added |
+| MAN | Marine propulsion diesel engines; exact families and models to be added |
+| Yanmar | Marine diesel propulsion engines and generator-related systems; exact models to be added |
+| Kohler | Marine generator sets; exact models to be added |
 
-Model names alone may not uniquely identify an engine or generator. Confirm the full model designation, configuration, and serial number before using technical information.
+Always identify the full model designation, configuration, and serial number before consulting model-specific information. Similar model names can have different specifications and procedures.
 
-## Product Summary
+## Learning Goals
 
-This project covers two broad equipment groups:
+By studying this guide, learners should be able to:
 
-- Propulsion engines: Marine diesel engines that provide power to a vessel's propulsion system. Topics include engine subsystems, operating practices, inspections, maintenance planning, and troubleshooting.
-- Marine generator sets: Engine-driven electrical generating systems used to supply onboard power. Topics include operating checks, routine care, fault symptoms, and electrical safety.
+- Explain the basic role and operating principles of marine diesel engines and generator sets.
+- Identify major engine, cooling, lubrication, fuel, air, exhaust, starting, and charging systems.
+- Describe safe pre-start, operating, and shutdown checks using the equipment's manual.
+- Understand the purpose of routine inspections and maintenance records.
+- Gather useful information when reporting a fault or abnormal condition.
+- Recognize when work must stop and a qualified technician should be contacted.
+- Find and verify the correct manufacturer documentation for a particular unit.
 
-Coverage is intended to be organized by manufacturer and exact model as reliable, sourced information is added. No model-specific specifications or service intervals are assumed in this overview.
+## Suggested Training Book Contents
 
-## Technical Topics
+### Part 1 — Foundations
 
-- Engine identification and documentation
-- Fuel delivery and air-intake systems
-- Cooling and lubrication systems
-- Exhaust and ventilation considerations
-- Starting, charging, and control systems
-- Generator operation and onboard electrical safety
-- Routine inspections and preventive maintenance
-- Troubleshooting symptoms and diagnostic checks
-- Service records, parts references, and manufacturer sources
+1. Introduction to marine diesel propulsion and onboard power generation
+2. Diesel engine fundamentals and major components
+3. Understanding engine ratings, model designations, and serial numbers
+4. How propulsion engines differ from generator sets
 
-## Maintenance
+### Part 2 — Engine Systems
 
-Use the maintenance schedule and procedures specified by the manufacturer for the exact engine or generator configuration. As a general planning framework, keep records of operating hours, inspections, service dates, parts used, and observed issues. Check the equipment documentation for the required checks and intervals; do not infer them from another model or installation.
+5. Fuel supply and injection system overview
+6. Air intake, turbocharging, and exhaust overview
+7. Lubrication system principles
+8. Cooling systems and heat exchange
+9. Starting, charging, controls, and monitoring
 
-Before maintenance, make the equipment safe according to its manuals and vessel procedures. Consider hazards such as unexpected starting, hot surfaces and fluids, moving parts, fuel, exhaust gases, high-pressure systems, and electrical energy. Use appropriate protective equipment and seek qualified assistance for work beyond your training.
+### Part 3 — Generators and Electrical Awareness
 
-## Troubleshooting
+10. Marine generator-set components and operating principles
+11. Basic AC electrical concepts and onboard power awareness
+12. Generator operating checks and load considerations
+13. Electrical hazards and safe boundaries for trainees
 
-Start with the exact model and serial number, the alarm or fault indication, operating conditions, and recent service history. Record symptoms and check only the basic observations permitted by the relevant manual. Follow the manufacturer's diagnostic flow and safety warnings; do not bypass alarms, guards, or protective devices. Stop operation and contact a qualified marine technician if there is an unsafe condition, an unresolved alarm, unusual noise or vibration, overheating, leakage, smoke, or an electrical fault.
+### Part 4 — Operation and Maintenance
 
-Troubleshooting notes in this repository should distinguish confirmed manufacturer procedures from general observations and should cite their sources. They should not present an unverified cause or repair as certain.
+14. Pre-start, underway, and shutdown checks
+15. Preventive maintenance and service records
+16. Understanding manufacturer maintenance schedules
+17. Parts identification and documentation practices
 
-## Safety and Accuracy
+### Part 5 — Fault Awareness and Safe Diagnosis
 
-Marine engines and generator sets combine mechanical, fuel, exhaust, thermal, and electrical hazards. Generator systems may include hazardous AC voltage. Always follow the exact manufacturer's documentation, applicable vessel procedures, and local regulations. Isolate equipment and verify safe conditions as directed by the manual before service. Electrical work and major mechanical repairs should be handled by appropriately qualified personnel.
+18. How to describe symptoms, alarms, and operating conditions
+19. A safe, manual-led approach to troubleshooting
+20. Common abnormal conditions and when to stop operation
+21. Communicating findings to a supervisor or qualified technician
 
-Specifications, parts, maintenance intervals, and procedures vary by model, year, rating, configuration, and serial number. Verify all technical details against official documentation for the unit being serviced. This README provides project orientation only; it is not a service procedure.
+### Part 6 — Manufacturer and Model Study
+
+22. Volvo Penta D4 and D6 overview
+23. Volvo Penta D11, D12, and D13 overview
+24. MTU marine engine overview
+25. MAN marine engine overview
+26. Yanmar marine engine overview
+27. Kohler marine generator overview
+
+Model-specific lessons should be added only when reliable manufacturer documentation is available. Do not assume that procedures or specifications transfer between models or brands.
+
+## Training Approach
+
+For each topic or model, use a consistent learning structure:
+
+1. **Learning objectives** — what the learner should understand.
+2. **System overview** — component names and their functions.
+3. **Safety briefing** — hazards, isolation requirements, and limits of trainee work.
+4. **Manufacturer reference** — applicable manual, document title, revision, and page or section.
+5. **Guided activity** — instructor-led observation or approved practice.
+6. **Knowledge check** — questions or a short review of the learning objectives.
+7. **Training record** — date, equipment identification, instructor, and topics completed.
+
+Hands-on activities must be supervised and permitted by the relevant manual, workplace rules, and instructor. This guide does not authorize learners to perform maintenance or repairs.
+
+## Maintenance Learning Principles
+
+Maintenance intervals and procedures depend on the exact model, year, rating, installation, and operating conditions. Teach learners to locate and follow the correct manufacturer's schedule rather than rely on generic intervals. Good records should identify the equipment, operating hours, date, work performed, materials used, and observations, following the vessel's approved process.
+
+## Troubleshooting Learning Principles
+
+Begin by confirming the equipment identity and recording the alarm or fault indication, operating conditions, symptoms, and recent service history. Follow only the diagnostic checks and procedures allowed by the correct manual and the learner's training level. Do not bypass alarms, guards, or protective devices. Stop and report unsafe conditions, unresolved alarms, unusual noise or vibration, overheating, leakage, smoke, or electrical faults to a qualified person.
+
+## Safety
+
+Marine engines and generator sets involve moving machinery, fuel, hot surfaces and fluids, exhaust gases, high-pressure systems, unexpected starting, and electrical energy. Generator equipment may contain hazardous AC voltage. Training and any practical work must follow the exact manufacturer's documentation, vessel procedures, applicable regulations, and instructor direction. Electrical work and major mechanical repairs are for appropriately qualified personnel.
+
+## Sources and Accuracy
+
+Specifications, service procedures, parts, and maintenance intervals must be verified against current official documentation for the exact unit. When adding training material, cite the source and identify its model applicability. Clearly distinguish manufacturer instructions from general educational explanations. Do not include unverified technical values or unsafe shortcuts.
 
 ## Project Status
 
-This is a developing technical knowledge base. Manufacturer- and model-specific pages, sourced reference material, maintenance guidance, and troubleshooting notes can be added over time.
+This repository is a developing learning and training book. The contents above provide a curriculum outline; lessons and model-specific material can be added progressively with reliable sources and appropriate review.
 
-## Contributing
+## Contributions
 
-Contributions are welcome. For technical content:
-
-- Identify the manufacturer, exact model, and relevant configuration.
-- Cite an official manual or other reliable source wherever possible.
-- Clearly separate sourced procedures from general explanatory notes.
-- Avoid unsupported specifications, unsafe shortcuts, and advice to defeat safety systems.
-- Keep maintenance and troubleshooting information clear, cautious, and easy to verify.
+Contributions are welcome. Please make learning content clear and accurate, identify the manufacturer and model, cite reliable sources, include relevant safety boundaries, and have technical material reviewed by a competent person before treating it as training guidance.
