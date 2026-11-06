@@ -1,8 +1,10 @@
 # solid-telegram
 
-A technical reference for marine diesel propulsion engines and onboard generator sets, with a focus on **Volvo Penta D4, D6, D11, D12, and D13**, **MTU**, **MAN**, **Yanmar**, and **Kohler** marine equipment.
+Engineer: Abdullah Thabit Alqahtani
 
-> **Purpose:** Organize practical, model-aware information about system operation, routine maintenance, fault diagnosis, and safe service practices. This repository is an educational reference—not a substitute for the applicable manufacturer service manual or a qualified marine technician.
+A technical reference for marine diesel propulsion engines and onboard generator sets, with a focus on Volvo Penta D4, D6, D11, D12, and D13, MTU, MAN, Yanmar, and Kohler marine equipment.
+
+> Purpose: Organize practical, model-aware information about system operation, routine maintenance, fault diagnosis, and safe service practices. This repository is an educational reference—not a substitute for the applicable manufacturer service manual or a qualified marine technician.
 
 ## Brand and Model Index
 
@@ -20,8 +22,8 @@ Model names alone may not uniquely identify an engine or generator. Confirm the 
 
 This project covers two broad equipment groups:
 
-- **Propulsion engines:** Marine diesel engines that provide power to a vessel's propulsion system. Topics include engine subsystems, operating practices, inspections, maintenance planning, and troubleshooting.
-- **Marine generator sets:** Engine-driven electrical generating systems used to supply onboard power. Topics include operating checks, routine care, fault symptoms, and electrical safety.
+- Propulsion engines: Marine diesel engines that provide power to a vessel's propulsion system. Topics include engine subsystems, operating practices, inspections, maintenance planning, and troubleshooting.
+- Marine generator sets: Engine-driven electrical generating systems used to supply onboard power. Topics include operating checks, routine care, fault symptoms, and electrical safety.
 
 Coverage is intended to be organized by manufacturer and exact model as reliable, sourced information is added. No model-specific specifications or service intervals are assumed in this overview.
 
