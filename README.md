@@ -1,10 +1,10 @@
 # solid-telegram
 
-A practical information hub for marine diesel propulsion engines and onboard generators. This project focuses on Volvo Penta D-series engines, MTU and MAN marine engines, Yanmar engines, and Kohler marine generators.
+A practical information hub for marine diesel propulsion engines and onboard generators. This project focuses on Volvo Penta D4, D6, D11, D12, and D13 engines, as well as MTU, MAN, Yanmar, and Kohler marine power systems.
 
 ## Scope
 
-The documentation is organized around these manufacturers and product families:
+The repository is dedicated to collecting and organizing useful technical information about marine diesel engines and power generation equipment from major manufacturers.
 
 ### Volvo Penta
 
@@ -16,49 +16,47 @@ The documentation is organized around these manufacturers and product families:
 
 ### MTU
 
-- Marine diesel engines and propulsion systems
-- Model-specific information will be added as the relevant engine families are identified
+- Marine diesel propulsion and auxiliary power systems
+- Technical reference material for marine applications
 
 ### MAN
 
-- Marine diesel engines and propulsion systems
-- Model-specific information will be added as the relevant engine families are identified
+- Marine diesel propulsion systems
+- Heavy-duty marine engine information and maintenance guidance
 
 ### Yanmar
 
-- Marine diesel propulsion engines
-- Marine generator engines and systems, where applicable
+- Marine diesel engines
+- Generator engine systems and operational support
 
 ### Kohler
 
 - Marine generator sets
-- Generator operation, routine care, troubleshooting, and electrical safety
+- Generator operation, maintenance, and troubleshooting guidance
 
-## Topics
+## Main Focus Areas
 
-The project aims to collect clear, useful information about:
+- engine and generator operating principles
+- major components and systems overview
+- fuel, lubrication, cooling, and air systems
+- maintenance schedules and inspection routines
+- troubleshooting and common fault conditions
+- electrical systems and generator operation
+- safety practices for marine equipment
+- compatibility, identification, and model-specific notes
 
-- engine and generator system overviews
-- operating principles and major components
-- routine inspection and preventive maintenance
-- troubleshooting symptoms and possible causes
-- cooling, lubrication, fuel, air, and exhaust systems
-- starting, charging, and electrical systems
-- generator operation and basic electrical safety
-- model identification and the importance of serial numbers
+## Important Note
 
-## Important Model Information
-
-Specifications, service procedures, parts, and recommended maintenance intervals can vary by exact model, year, configuration, and serial number. Always verify technical details against the manufacturer's documentation for the specific equipment. This repository is an educational reference and is not a substitute for an official service manual or a qualified marine technician.
+Marine diesel engines and generators can vary considerably by model, year, installation type, and serial number. Technical data, maintenance intervals, and service procedures must be confirmed against the official manufacturer documentation for the specific unit in service.
 
 ## Safety
 
-Marine engines and generators involve hot surfaces, moving parts, fuel, exhaust gases, high current, and potentially hazardous AC voltage. Shut down and isolate equipment as appropriate before inspection or maintenance, ensure adequate ventilation, and follow the manufacturer's safety procedures. Have electrical and major mechanical work performed by qualified personnel.
+Marine diesel systems involve moving parts, fuel, exhaust gases, heat, high-pressure systems, and sometimes live electrical systems. Always follow proper lockout/tagout, ventilation, and personal protection procedures. Major electrical or mechanical work should be performed by qualified technicians.
 
 ## Project Status
 
-This is a developing documentation project. Manufacturer-specific guides and model details will be added over time and should be checked against authoritative manufacturer sources.
+This repository is currently developing as a growing technical reference for marine diesel engines and marine generators. Content will expand as more model-specific knowledge is added.
 
-## Contributing
+## Contribution Guidelines
 
-Contributions are welcome. Please keep information accurate and clearly identify the manufacturer, model, configuration, and source. Avoid presenting unverified specifications or service instructions as authoritative.
+Contributions are welcome when they are accurate, practical, and clearly identified by engine or generator model, manufacturer, and source. Avoid posting unverified specifications or unsafe service advice.
